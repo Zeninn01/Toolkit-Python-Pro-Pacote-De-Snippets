@@ -58,17 +58,17 @@ Ela inclui:
 ---
 
 ## 📁 Estrutura da versão demonstrativa
-toolkit-python-pro-demo/
-│
-├── snippets/
-│ ├── strings.py
-│ ├── listas.py
-│ └── arquivos.py
-│
-├── template-projeto/
-│ └── exemplo.py
-│
-└── README.md
+toolkit-python-pro-demo/<br>
+│<br>
+├── snippets/<br>
+│ ├── strings.py<br>
+│ ├── listas.py<br>
+│ └── arquivos.py<br>
+│<br>
+├── template-projeto/<br>
+│ └── exemplo.py<br>
+│<br>
+└── README.md<br>
 
 ---
 
